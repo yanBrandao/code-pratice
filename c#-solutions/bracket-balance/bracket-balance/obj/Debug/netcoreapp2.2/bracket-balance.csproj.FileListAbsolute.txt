@@ -1,0 +1,11 @@
+C:\Users\yan.diniz\Developer\personal-projects\code-pratice\c#-solutions\bracket-balance\bracket-balance\bin\Debug\netcoreapp2.2\bracket-balance.deps.json
+C:\Users\yan.diniz\Developer\personal-projects\code-pratice\c#-solutions\bracket-balance\bracket-balance\bin\Debug\netcoreapp2.2\bracket-balance.runtimeconfig.json
+C:\Users\yan.diniz\Developer\personal-projects\code-pratice\c#-solutions\bracket-balance\bracket-balance\bin\Debug\netcoreapp2.2\bracket-balance.runtimeconfig.dev.json
+C:\Users\yan.diniz\Developer\personal-projects\code-pratice\c#-solutions\bracket-balance\bracket-balance\bin\Debug\netcoreapp2.2\bracket-balance.dll
+C:\Users\yan.diniz\Developer\personal-projects\code-pratice\c#-solutions\bracket-balance\bracket-balance\bin\Debug\netcoreapp2.2\bracket-balance.pdb
+C:\Users\yan.diniz\Developer\personal-projects\code-pratice\c#-solutions\bracket-balance\bracket-balance\obj\Debug\netcoreapp2.2\bracket-balance.csprojAssemblyReference.cache
+C:\Users\yan.diniz\Developer\personal-projects\code-pratice\c#-solutions\bracket-balance\bracket-balance\obj\Debug\netcoreapp2.2\bracket-balance.csproj.CoreCompileInputs.cache
+C:\Users\yan.diniz\Developer\personal-projects\code-pratice\c#-solutions\bracket-balance\bracket-balance\obj\Debug\netcoreapp2.2\bracket-balance.AssemblyInfoInputs.cache
+C:\Users\yan.diniz\Developer\personal-projects\code-pratice\c#-solutions\bracket-balance\bracket-balance\obj\Debug\netcoreapp2.2\bracket-balance.AssemblyInfo.cs
+C:\Users\yan.diniz\Developer\personal-projects\code-pratice\c#-solutions\bracket-balance\bracket-balance\obj\Debug\netcoreapp2.2\bracket-balance.dll
+C:\Users\yan.diniz\Developer\personal-projects\code-pratice\c#-solutions\bracket-balance\bracket-balance\obj\Debug\netcoreapp2.2\bracket-balance.pdb

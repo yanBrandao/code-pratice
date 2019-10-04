@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\yan.diniz\\Developer\\personal-projects\\code-pratice\\c#-solutions\\bracket-balance\\bracket-balance\\bracket-balance.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\yan.diniz\\Developer\\personal-projects\\code-pratice\\c#-solutions\\bracket-balance\\bracket-balance\\bracket-balance.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\yan.diniz\\Developer\\personal-projects\\code-pratice\\c#-solutions\\bracket-balance\\bracket-balance\\bracket-balance.csproj",
+        "projectName": "bracket-balance",
+        "projectPath": "C:\\Users\\yan.diniz\\Developer\\personal-projects\\code-pratice\\c#-solutions\\bracket-balance\\bracket-balance\\bracket-balance.csproj",
+        "packagesPath": "C:\\Users\\yan.diniz\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\yan.diniz\\Developer\\personal-projects\\code-pratice\\c#-solutions\\bracket-balance\\bracket-balance\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\yan.diniz\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
